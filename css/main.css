@@ -1,0 +1,72 @@
+
+body {
+	font-family: 'Nunito', sans-serif;
+	background-color: #FBF9F4;
+	border-top: solid #0bd1c5 5px;
+	
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 42px;
+}
+
+h4 {
+	font-size: 24px;
+}
+
+p {
+	font-size: 18px;
+}
+
+footer {
+	color: grey;
+	text-align: right;
+	padding-right: 30px;
+	margin-bottom: 0px;
+	opacity: 0.5;
+	
+}
+
+.container {
+	
+}
+
+.jumbotron {
+
+background-color: #F5F2EA
+
+
+}
+
+.jumbotron h1, .jumbotron h2 {
+	text-align: center;
+	color: #00A4E0
+}
+
+.col-md-4 {
+	text-align: center;
+}
+
+.panel.panel-default {
+
+border-top-color: rgb(0, 164, 224);
+border-top-style: solid;
+border-top-width: 3px;
+
+
+}
+
+.thumbs {
+	width: 70%;
+	margin-bottom: 3px;
+
+}
+
+#monologo {
+	width: 35px;
+}
+
