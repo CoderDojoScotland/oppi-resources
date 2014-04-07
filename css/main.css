@@ -2,7 +2,8 @@
 body {
 	font-family: 'Nunito', sans-serif;
 	background-color: #FBF9F4;
-	border-top: solid #0bd1c5 5px;
+	border-top: solid #0bd1c5 7px;
+
 	
 }
 
@@ -28,6 +29,7 @@ footer {
 	padding-right: 30px;
 	margin-bottom: 0px;
 	opacity: 0.5;
+	padding-top: 75px;
 	
 }
 
